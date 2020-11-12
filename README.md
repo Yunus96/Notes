@@ -7,5 +7,5 @@ It should give a good idea of what I can work with, although it is primarly inte
 * Node JS
 * Python
 * Javascript
-* HTML
+* HTML5
 * CSS
